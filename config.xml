@@ -3,7 +3,7 @@
     <preference name="AndroidLaunchMode" value="singleTask" />
     <universal-links>
         <host name="DYNAMIC_LINK_DOMAIN" scheme="https" />
-        <host name="shopee-2bff8.firebaseapp.com" scheme="https">
+        <host name="shopee-3b75a.firebaseapp.com" scheme="https">
             <path url="/__/auth/callback" />
         </host>
     </universal-links>
