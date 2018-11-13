@@ -13,7 +13,7 @@ INJECTED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:
 INJECTED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
 INJECTED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:2:102-126
+		ADDED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:2:102-135
 		INJECTED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -23,7 +23,7 @@ INJECTED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:
 	android:hardwareAccelerated
 		ADDED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
 	xmlns:android
-		ADDED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:2:127-185
+		ADDED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:2:136-194
 	android:versionCode
 		ADDED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
 		INJECTED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml
@@ -72,7 +72,7 @@ MERGED from [com.android.support:support-v4:23.3.0] C:\Users\STD\.gradle\caches\
 		ADDED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:6:16-50
 	android:icon
 		ADDED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:6:51-78
-activity#com.geem.hello.MainActivity
+activity#io.cordova.hellocordova.MainActivity
 ADDED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:7:5-24:16
 	android:label
 		ADDED from D:\GEEM\platforms\android\app\src\main\AndroidManifest.xml:7:93-130
